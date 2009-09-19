@@ -3,7 +3,7 @@
 // @namespace   http://blairmitchelmore.com/greasemonkey/io9
 // @description Makes each tv show/movie have a collapsible link collapsed by default
 // @include     http://io9.com/*
-// @description Version 1.1
+// @description Version 1.1.1
 // ==/UserScript==
 
 // Use Douglas Crockford's JSON object if there's no native one
